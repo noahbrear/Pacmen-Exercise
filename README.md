@@ -26,6 +26,12 @@ SOFTWARE.
 
 # Description of the Program
 
-This program is composed of two files: index.html and pacmen.js. When ran, two buttons appear in the top left corner. The first generates a Pacman in a random spot on the page and can place multiple. The second makes all the Pacmen move in a random direction as they collide with walls and bounce back. 
+This program is composed of two files: index.html and pacmen.js. When ran, two buttons appear in the top left corner. The first generates a Pacman in a random spot on the page and can place multiple. The second makes all the Pacmen move in a random direction as they collide with walls and bounce back. The .png images are used to animate the Pacmen.
 
-#
+# How to Run
+
+To run this program, download all of the files and store them in the same folder on your computer. Drag the index.html file to an open window on an internet browser.
+
+# Roadmap of Future Improvements
+
+To enhance this program, extra buttons will be added to allow the user to restart the program. It will also have the images of the Pacmen reversed to point in the direction that they are facing.
